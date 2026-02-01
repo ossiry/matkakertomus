@@ -1,5 +1,11 @@
 # Introduction 
-Full-stack web-sovellus matkakertomusten, -kohteiden ja -kuvien tallentamiseen ja jakamiseen MERN-stackia (MySQL/MongoDB, Express, React, Node.js) käyttäen.
+Full-stack web-sovellus matkakertomusten, -kohteiden ja -kuvien tallentamiseen ja jakamiseen 
+
+# Tools
+- MySQL/MongoDB
+- Express
+- React
+- Node.js
 
 # Authors
 - Ossi Rytkönen
@@ -9,4 +15,5 @@ Full-stack web-sovellus matkakertomusten, -kohteiden ja -kuvien tallentamiseen j
 
 # Affliation
 - University of Eastern Finland, Ohjelmistotuotanto 2 course project
+
 
