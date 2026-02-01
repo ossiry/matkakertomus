@@ -1,0 +1,3 @@
+const JWTSECRETKEY = 'OHJELMISTOTUOTANTO2';
+
+module.exports = JWTSECRETKEY
